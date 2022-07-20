@@ -21,6 +21,8 @@ study about randomness of people choices with the age
 <li>
     The correlation between age and randomness score is close to <strong>zero.</strong>
 </li>
+
+![scatterplot](https://user-images.githubusercontent.com/91657533/180047151-10c57d82-38d7-4324-ac1c-4d627d252948.png)
 <li>
     The straight line in scatter plot shows <strong>little to none change in the trend </strong> over age.
 </li>
