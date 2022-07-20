@@ -17,6 +17,7 @@ study about randomness of people choices with the age
 <p> here are the findings and conclusion </p>
 
 #### findings:
+![correlation](https://user-images.githubusercontent.com/91657533/180046859-9edd814e-5276-4111-ad43-0e8448fdbf66.png)
 <li>
     The correlation between age and randomness score is close to <strong>zero.</strong>
 </li>
